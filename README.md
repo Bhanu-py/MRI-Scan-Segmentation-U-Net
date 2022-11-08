@@ -1,4 +1,4 @@
-# MRI-Segmentation using U-Net
+# MRI scan Segmentation using U-Net
 Image Segmentation of MRI scans of abdomen from cancer patients, to help cancer patients get accurate radio therapy treatment and less side effects.
 
 The UW-Madison Carbone Cancer Center is a pioneer in MR-Linac based radiotherapy, and has treated patients with MRI guided radiotherapy based on their daily anatomy since 2015. UW-Madison has generously agreed to support this project which provides anonymized MRIs of patients treated at the UW-Madison Carbone Cancer Center. The University of Wisconsin-Madison is a public land-grant research university in Madison, Wisconsin. The Wisconsin Idea is the university's pledge to the state, the nation, and the world that their endeavors will benefit all citizens.
